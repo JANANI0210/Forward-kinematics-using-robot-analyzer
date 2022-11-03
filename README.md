@@ -33,11 +33,22 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 ### PROCEDURE:
 
+1. Open the software named Robo analyzer.
 
+2. Select the robo with the degree of freedom as per requirement.
 
+3. Change the values of the link length with the given values.
+
+4. Make sure the robo is ready and start simulation. 
+
+5. After that plot the graph between the link and the joints.
+
+6. Update the DH parameters of the link configuration and end effector configuration.
 
 
 ### SIMULATION 
+
+
  
  
  
