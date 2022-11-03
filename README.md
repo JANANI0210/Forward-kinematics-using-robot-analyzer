@@ -48,42 +48,29 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 ### SIMULATION 
 
+4 DOF
+
+![Screenshot (262)](https://user-images.githubusercontent.com/86832944/199653969-8edd7004-f47f-4002-91e7-db2819332f27.png)
 
  
+ 6 DOF
  
- 
- 
- 
+ ![Screenshot (263)](https://user-images.githubusercontent.com/86832944/199654228-8f0a5022-cec6-4438-b6e8-462f25d379b5.png)
  
  
  ### PLOT 
  
+ 4 DOF
  
+ ![Screenshot (265)](https://user-images.githubusercontent.com/86832944/199654703-2723cd4e-96e6-4a32-a2e6-515dd05c21cd.png)
  
+ 6 DOF
  
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
+ ![Screenshot (264)](https://user-images.githubusercontent.com/86832944/199654752-75a009e1-cdc3-42e1-8942-120852c453f0.png)
 
 
 
 
 ### RESULTS :  
+
+Thus, the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer is analysed and the graph for link cordinates and joint angles is plotted.
